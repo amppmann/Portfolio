@@ -1,0 +1,44 @@
+.purple{
+    color:rgb(181, 129, 230);
+    text-shadow: 0 1px 3px rgb(238, 148, 238);
+}
+
+.horizontal-line{
+
+    width: 85%;
+    margin: 30px auto;
+    border-color: rgb(164, 163, 165);
+    opacity: 0.3;
+    box-shadow: 0 1px 3px rgb(196, 196, 196);
+}
+
+.text-shadow{
+    text-shadow: 0 2px 5px white;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.gray{
+    color: rgb(138, 138, 138);
+
+}
+
+.text-shadow-sm{
+    text-shadow:0 0 2px rgb(68, 68, 68);
+    font-size: 11px;
+    margin: 46px 100px;
+}
+
+.w-full{
+    width: 100%;
+}
+
+.opacity-80{
+    opacity:0.8;
+
+}
+
+
+
